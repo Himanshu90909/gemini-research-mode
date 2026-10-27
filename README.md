@@ -19,7 +19,7 @@ cp -r research-mode ~/.gemini/extensions/
 
 **Option B: clone into extensions**
 ```bash
-git clone <this-repo-url> ~/.gemini/extensions/research-mode
+git clone https://github.com/Himanshu90909/gemini-research-mode ~/.gemini/extensions/research-mode
 ```
 
 Then restart Gemini CLI (ya `/commands reload` chalao) aur `/help` mein commands dikhenge.
